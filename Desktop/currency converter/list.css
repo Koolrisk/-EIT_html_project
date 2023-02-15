@@ -1,0 +1,13 @@
+#list1{
+    font-size: 40px;
+    color: darkgreen;
+}
+.pet{ 
+   list-style-type: lower-alpha
+}
+.utensil{ 
+    list-style-type: circle ;
+}
+.stationary{ 
+    list-style-type: square;
+}

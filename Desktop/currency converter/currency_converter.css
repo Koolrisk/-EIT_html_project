@@ -1,0 +1,63 @@
+#content1{
+   
+   background-size: cover; 
+   background-repeat: no-repeat; 
+   background-attachment: fixed;
+   text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 60px;
+    border: 4;
+    
+}
+
+
+.head1{
+    text-align: center;
+    font-size: 50px;
+    color: darkblue;
+    word-spacing: 20px;
+   letter-spacing: 5px;
+}
+form{
+    background-color: rgba(166, 206, 229, 0.6);
+    padding-top: 34px;
+    display: table;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    padding-bottom: 40px;
+    box-shadow: 10px 10px 68px 0px rgba(0,0,0,0.47);
+-webkit-box-shadow: 10px 10px 68px 0px rgba(0,0,0,0.47);
+-moz-box-shadow: 10px 10px 68px 0px rgba(0,0,0,0.47);
+
+}
+form .box{
+    width: 60%;
+    height: 2.8em;
+    position: relative;
+    bottom: 10px;
+    border: 2;
+    border-radius: 5px;
+    box-shadow: 2px 2px 7px 1px #171818;
+    font-size: large;
+}
+#convert{
+    font-size: 25px;
+}
+button{
+    width: 40%;
+    height: 2em;
+    position: relative;
+    top: 10px;
+    background-color: rgb(153, 210, 170);
+    border: 12px double #1C6EA4;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    border-radius: 5px;
+    box-shadow: 2px 2px 7px 1px #171818;
+    
+ }
